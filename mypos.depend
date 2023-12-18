@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700811481 source:c:\users\user\desktop\pos\point of sales\mypos\pointofsale.cpp
+	"Product.h"
+	<vector>
+
+1700812474 c:\users\user\desktop\pos\point of sales\mypos\product.h
+	<iostream>
+	<string>
+
